@@ -9,8 +9,10 @@
 ![alt text](https://github.com/jasonjusto/Data-Science-Porfolio/blob/master/images/density%20graph.png)
 
 
-* Moving forward by utilizing text to match with other postings.
+* Moving forward by utilizing text to match with other postings...
 
 
 # Time-series project
-...
+* Scraped shoe price from favorite clothing store.
+* Tracks regular and sale price over time.
+* ...
