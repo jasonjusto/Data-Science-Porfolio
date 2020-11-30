@@ -6,7 +6,7 @@
 * Scraped a job posting I liked.
 * Plotted density of significant words.
 
-![](https://github.com/jasonjusto/Data-Science-Porfolio/blob/master/images/density_graph.png)
+![](/images/density_graph.png)
 
 
 * Moving forward by utilizing text to match with other postings...
