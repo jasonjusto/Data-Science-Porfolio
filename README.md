@@ -1,8 +1,8 @@
 ## Data Science Porfolio
 
-# Data Science Working Projects
+# Working Projects
 
-# NLP Project
+# NLP
 * Scraped a job posting I liked.
 * Plotted density of significant words.
 
@@ -12,7 +12,7 @@
 * Moving forward by utilizing text to match with other postings...
 
 
-# Time-series project
+# Time-series
 * Scraped shoe price from favorite clothing store.
 * Tracks regular and sale price over time.
 * ...
